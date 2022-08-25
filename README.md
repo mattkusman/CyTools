@@ -1,0 +1,2 @@
+## Intro
+This repo is to store commonly used pentesting, exploitation, and hardening tools I have encountered. Things like certain command parameters and flags are here as my baseline when using that tool.
